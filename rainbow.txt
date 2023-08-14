@@ -1,4 +1,8 @@
 the first color of rainbow is red.
 The second color of rainbow is orange.
 the third color of rainbow is yellow.
+<<<<<<< HEAD
 
+=======
+the fourth color of rainbow is green.
+>>>>>>> 80ac9ed (green)
